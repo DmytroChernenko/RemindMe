@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">RemindMe</string>
     <string name="search_title">Search</string>
+    <string name="example_fragment_title">Hello world</string>
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
+    <string name="notification">Напоминания</string>
 </resources>
